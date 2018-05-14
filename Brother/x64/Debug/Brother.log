@@ -1,0 +1,5 @@
+﻿  Brother.cpp
+c:\users\hanna\documents\visual studio 2017\my projects\brother\brother\brother.cpp(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hanna\documents\visual studio 2017\my projects\brother\brother\brother.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Brother.vcxproj -> C:\Users\Hanna\Documents\Visual Studio 2017\My Projects\Brother\x64\Debug\Brother.exe
+  Brother.vcxproj -> C:\Users\Hanna\Documents\Visual Studio 2017\My Projects\Brother\x64\Debug\Brother.pdb (Partial PDB)

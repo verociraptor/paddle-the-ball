@@ -1,0 +1,54 @@
+﻿  stdafx.cpp
+  Brother.cpp
+Brother.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\hanna\documents\visual studio 2017\my projects\brother\brother\Paddle.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Brother.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Brother.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Brother.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Brother.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Brother.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Paddle.cpp
+Paddle.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Paddle.cpp(6): error C2653: 'Paddle': is not a class or namespace name
+Paddle.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Paddle.cpp(8): error C2065: 'position': undeclared identifier
+Paddle.cpp(8): error C2228: left of '.x' must have class/struct/union
+  Paddle.cpp(8): note: type is 'unknown-type'
+Paddle.cpp(9): error C2065: 'position': undeclared identifier
+Paddle.cpp(9): error C2228: left of '.y' must have class/struct/union
+  Paddle.cpp(9): note: type is 'unknown-type'
+Paddle.cpp(11): error C2065: 'paddleShape': undeclared identifier
+Paddle.cpp(11): error C2228: left of '.setSize' must have class/struct/union
+  Paddle.cpp(11): note: type is 'unknown-type'
+Paddle.cpp(11): error C2653: 'sf': is not a class or namespace name
+Paddle.cpp(11): error C3861: 'Vector2f': identifier not found
+Paddle.cpp(12): error C2065: 'paddleShape': undeclared identifier
+Paddle.cpp(12): error C2228: left of '.setPosition' must have class/struct/union
+  Paddle.cpp(12): note: type is 'unknown-type'
+Paddle.cpp(12): error C2065: 'position': undeclared identifier
+Paddle.cpp(13): warning C4508: 'Paddle': function should return a value; 'void' return type assumed
+Paddle.cpp(16): error C2653: 'Paddle': is not a class or namespace name
+Paddle.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Paddle.cpp(16): error C2146: syntax error: missing ';' before identifier 'getPosition'
+Paddle.cpp(17): error C2143: syntax error: missing ';' before '{'
+Paddle.cpp(17): error C2447: '{': missing function header (old-style formal list?)
+Paddle.cpp(22): error C2653: 'Paddle': is not a class or namespace name
+Paddle.cpp(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+Paddle.cpp(22): error C2146: syntax error: missing ';' before identifier 'getShape'
+Paddle.cpp(23): error C2143: syntax error: missing ';' before '{'
+Paddle.cpp(23): error C2447: '{': missing function header (old-style formal list?)
+Paddle.cpp(28): error C2653: 'Paddle': is not a class or namespace name
+Paddle.cpp(30): error C2065: 'position': undeclared identifier
+Paddle.cpp(30): error C2228: left of '.x' must have class/struct/union
+  Paddle.cpp(30): note: type is 'unknown-type'
+Paddle.cpp(30): error C2065: 'paddleSpeed': undeclared identifier
+Paddle.cpp(34): error C2653: 'Paddle': is not a class or namespace name
+Paddle.cpp(36): error C2065: 'position': undeclared identifier
+Paddle.cpp(36): error C2228: left of '.x' must have class/struct/union
+  Paddle.cpp(36): note: type is 'unknown-type'
+Paddle.cpp(36): error C2065: 'paddleSpeed': undeclared identifier
+Paddle.cpp(40): error C2653: 'Paddle': is not a class or namespace name
+Paddle.cpp(42): error C2065: 'paddleShape': undeclared identifier
+Paddle.cpp(42): error C2228: left of '.setPosition' must have class/struct/union
+  Paddle.cpp(42): note: type is 'unknown-type'
+Paddle.cpp(42): error C2065: 'position': undeclared identifier
