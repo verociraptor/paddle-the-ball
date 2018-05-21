@@ -31,7 +31,7 @@ float Ball::getYVelocity()
 
 void Ball::update()
 {
-	position.y += yVelocity;
+	position.y += yVelocity + .1;
 
 	ballShape.setPosition(position);
 }
